@@ -2,6 +2,7 @@ To add to your VVV, add the site as follows to `vvv-custom.yml`:
 
 ```
   pimpmylog:
+    repo: https://github.com/tomjn/vvv-pimp-my-logs.git
     hosts:
       - pimpmylog.test
 ```
